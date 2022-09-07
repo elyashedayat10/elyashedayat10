@@ -32,6 +32,7 @@ my_skills = [
 ### 📞 Me on social media:
 
 
+
 - 🔵 Linkedin: <a href="https://www.linkedin.com/in/elyas-hedayat-747979207/">Elyas Hedayat</a>
 - 🔴 Gmail: <a href="mailto:elyashedayat1380@gmail.com">elyashedayat1380@gmail.com</a>
 
