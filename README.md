@@ -1,16 +1,45 @@
-### Hi there 👋
+<h2 align="center">
+Hello there 👋🏻, It's Elyas Hedayat
+  
+![](https://komarev.com/ghpvc/?username=elyashedayat10&color=red)
+</h2>
 
-<!--
-**elyashedayat10/elyashedayat10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a **Back-end** developer 🖥
+
+
+
+<br>
+
+### ⚙️ Technologies that I am skilled in:
+
+``` python
+my_skills = [
+  'Python',
+  'Django',
+  'Django Rest Framework',
+  'Web Scraping',
+  'Json Web Token (JWT)',
+  'PostgreSQL Database',
+  'Ceelry',
+]
+
+```
+
+<br>
+
+### 📞 Me on social media:
+
+
+- 🔵 Linkedin: <a href="https://www.linkedin.com/in/elyas-hedayat-747979207/">Elyas Hedayat</a>
+- 🔴 Gmail: <a href="mailto:elyashedayat1380@gmail.com">elyashedayat1380@gmail.com</a>
+
+<br>
+
+
+
+  <img src="https://github-readme-stats.vercel.app/api?username=elyashedayat10&show_icons=true&theme=jolly"/> 
+
+
+
