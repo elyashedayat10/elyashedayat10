@@ -22,7 +22,7 @@ my_skills = [
   'Web Scraping',
   'Json Web Token (JWT)',
   'PostgreSQL Database',
-  'Ceelry',
+  'Celery',
 ]
 
 ```
